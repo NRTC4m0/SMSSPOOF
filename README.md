@@ -8,6 +8,7 @@ I AM NOT RESPONSIBLE OR LIABLE FOR ANY DAMAGE CAUSED BY THIS TOOL. THIS IS JUST 
 2. cd SMSSPOOF
 3. pip3 install -r requirements.txt
 4. python3 smsspoof.py
+
 Using this tool grants you one free message to any number per day (international numbers out side of US/Canada not tested)
 
 # PAID VERSION
