@@ -11,6 +11,8 @@ I AM NOT RESPONSIBLE OR LIABLE FOR ANY DAMAGE CAUSED BY THIS TOOL. THIS IS JUST 
 
 Using this tool grants you one free message to any number per day (international numbers out side of US/Canada not tested)
 
+You can use this tool on any machine, IDE, etc that has internet access
+
 # PAID VERSION
 1. go to https://textbelt.com/purchase/?generateKey=1
 2. copy your api key
